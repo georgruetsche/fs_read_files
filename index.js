@@ -1,4 +1,5 @@
 const fs = require('fs');
+// configure datei folder
 const testFolder = 'test';
 
 class Explorer {
